@@ -1,4 +1,4 @@
-# pbpaste-tkinter: Small uility to mimic pbpaste in windows
+# pbpaste-win: Small uility to mimic pbpaste in windows
 [![PyPI](https://img.shields.io/pypi/v/llm-embed-ollama.svg)](https://pypi.org/project/pbpaste-win/)
 [![Changelog](https://img.shields.io/github/v/release/sukhbinder/pbpaste-win?include_prereleases&label=changelog)](https://github.com/sukhbinder/pbpaste-win/releases)
 [![Tests](https://github.com/sukhbinder/pbpaste-win/workflows/Test/badge.svg)](https://github.com/sukhbinder/pbpaste-win/actions?query=workflow%3ATest)
