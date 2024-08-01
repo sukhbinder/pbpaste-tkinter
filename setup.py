@@ -13,7 +13,10 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/sukhbinder/pbpaste-win",
     packages=setuptools.find_packages(),
-    install_requires=[],
+    extras_require={
+        "test": [
+            "pytest",]
+    },
     entry_points={"console_scripts": ["pbpaste = pbpastesrc.clipcon:get_clipboard_content_tkinter"]}
 )
 
