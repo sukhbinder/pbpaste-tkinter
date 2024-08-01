@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.1.0",
     author="Sukhbinder Singh",
     author_email="sukh2010@yahoo.com",
-    description="A simple Tkinter script to get clipboard content.",
+    description="Small uility to mimic pbpaste in windows.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/sukhbinder/pbpaste-tkinter",
