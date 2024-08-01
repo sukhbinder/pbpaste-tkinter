@@ -10,7 +10,7 @@ Simple command-line tool that mimics pbpaste in windows.
 
 You can install this package using pip:
 ```
-pip install pbpaste-tkinter
+pip install pbpaste-win
 ```
 
 Once installed, you can use it as a command-line tool by running:
