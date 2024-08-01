@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="pbpaste-tkinter",
+    name="pbpaste-win",
     version="0.1.0",
     author="Sukhbinder Singh",
     author_email="sukh2010@yahoo.com",
