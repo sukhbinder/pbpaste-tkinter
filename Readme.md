@@ -1,4 +1,8 @@
-# pbpaste-tkinter: python code to mimic pbpaste in windows
+# pbpaste-tkinter: Small uility to mimic pbpaste in windows
+[![PyPI](https://img.shields.io/pypi/v/llm-embed-ollama.svg)](https://pypi.org/project/pbpaste-win/)
+[![Changelog](https://img.shields.io/github/v/release/sukhbinder/pbpaste-win?include_prereleases&label=changelog)](https://github.com/sukhbinder/pbpaste-win/releases)
+[![Tests](https://github.com/sukhbinder/pbpaste-win/workflows/Test/badge.svg)](https://github.com/sukhbinder/pbpaste-win/actions?query=workflow%3ATest)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/sukhbinder/pbpaste-win/blob/main/LICENSE)
 
 Simple command-line tool that mimics pbpaste in windows.
 
