@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pbpaste-win",
-    version="0.1.0",
+    version="0.1.1",
     author="Sukhbinder Singh",
     author_email="sukh2010@yahoo.com",
     description="A tiny uility to mimic pbpaste in windows.",
